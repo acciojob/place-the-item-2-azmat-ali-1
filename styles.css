@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+.divcontainer{
+	display:flex;
+	justify-content:center;
+	width:600px;
+	height:200px;
+	
+	flex-wrap:wrap;
+	font-size:50px;
+}
+.items1{
+	
+	width:100px;
+	height:100px;
+	background-color:red;
+	
+}
+.items2{
+	
+	width:100px;
+	height:100px;
+	background-color:blue;
+	
+}
+.items3{
+	
+	width:100px;
+	height:100px;
+	background-color:green;
+	
+}
