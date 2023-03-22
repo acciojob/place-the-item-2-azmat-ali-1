@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.divcontainer{
+.holder{
 	display:flex;
 	justify-content:center;
 	width:600px;
